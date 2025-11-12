@@ -1,0 +1,8 @@
+crear una aplicacion de escritorio que muestre la fecha y la hora usando el diseño de la imagen
+
+primero este la hora y debajo la fecha actual.
+
+resultado:
+
+- cursor uso python.
+- la apariencia es mucho mejor que usando visual studio.
