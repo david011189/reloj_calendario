@@ -281,6 +281,6 @@ Desarrollado como proyecto de aplicación de escritorio con Python y tkinter.
 
 ---
 
-**Última actualización**: 2024
+**Última actualización**: 11/11/2025
 
 
